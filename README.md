@@ -1,4 +1,4 @@
-# CLA
+# CLA Test
 
 A repository to test cla workflows.
 
