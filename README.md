@@ -2,7 +2,10 @@
 
 A repository to test cla workflows.
 
-## Initial Notes
+
+## CLA Assistant
+
+### Initial Notes
 
 1. Grant the app permissions by going through workflow at https://cla-assistant.io/
 2. Create a Gist with the CLA. This can be a "secret" Gist that is not made searchable but is available to anyone with the link.
@@ -16,5 +19,5 @@ A repository to test cla workflows.
    4. Leave the options unchanged that trigger a CLA process only once a PR contains a minimum number of changes. IMHO those open us up to poisoned contributions.
 6. Once added, people should be able to create PRs on your repo.
 
-## Required permissions
+### Required permissions
 ![image](https://github.com/user-attachments/assets/f768efb8-caa5-45af-96b0-745e236c7511)
