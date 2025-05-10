@@ -20,4 +20,4 @@ A repository to test cla workflows.
 6. Once added, people should be able to create PRs on your repo.
 
 ### Required permissions
-![image](https://github.com/user-attachments/assets/f768efb8-caa5-45af-96b0-745e236c7511)
+
